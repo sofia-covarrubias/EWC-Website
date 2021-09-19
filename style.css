@@ -3,6 +3,18 @@ html
   background-color: #e3e3e3;
 } /*Deals with background color*/
 
+body
+{
+  padding-left: 100px;
+}
+
+dl
+{
+  font-family: 'Quicksand', sans-serif;
+  padding-left: 175px;
+  padding-right: 100px;
+} /* styles the description list */
+
 .sidebar 
 {  
   font-family: 'Quicksand', sans-serif;
