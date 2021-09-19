@@ -18,3 +18,10 @@ html
   padding-right: 40px;
   background-color: #d1ebe5;
 } /* used for the sidebars format and placement */
+
+.sidebar div 
+{
+  padding: 8px;
+  font-size: 24px;
+  display: block;
+} /* sidebar's actual appearance */
