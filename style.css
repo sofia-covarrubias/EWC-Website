@@ -15,6 +15,13 @@ h1
   font-size: 30px;
 }
 
+p
+{
+  padding-left: 215px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
+}
+
 table 
 {
   padding-left: 175px;
@@ -79,4 +86,11 @@ mark
 {
   width: 200px;
   height: auto;
+}
+
+.resize2
+{
+  padding-left: 200px;
+  width: 1000px;
+  height: 1000px;
 }
