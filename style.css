@@ -19,7 +19,7 @@ p
 {
   padding-left: 215px;
   font-family: 'Quicksand', sans-serif;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 table 
@@ -36,6 +36,15 @@ th, td
   border-bottom: 1px solid;
 }
 
+form
+{
+  box-shadow: 10px 5px 5px grey;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #d1cfcf;
+  box-sizing: border-box;
+  border-color: black;
+}
 
 dl
 {
@@ -93,4 +102,5 @@ mark
   padding-left: 200px;
   width: 1000px;
   height: 1000px;
+  box-shadow: 10px 10px 5px grey;
 }
