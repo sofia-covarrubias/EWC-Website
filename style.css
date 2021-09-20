@@ -17,9 +17,27 @@ h1
 
 p
 {
-  padding-left: 215px;
+  /*padding-left: 100px;*/
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
+}
+
+h2
+{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+}
+
+h3
+{
   font-family: 'Quicksand', sans-serif;
   font-size: 20px;
+}
+
+address
+{
+    font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
 }
 
 table 
@@ -109,4 +127,9 @@ mark
   width: 1000px;
   height: 1000px;
   box-shadow: 10px 10px 5px grey;
+}
+
+.form
+{
+  padding-left: 215px;
 }
