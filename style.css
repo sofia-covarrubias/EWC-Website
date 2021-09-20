@@ -53,6 +53,12 @@ dl
   padding-right: 100px;
 } /* styles the description list */
 
+article
+{
+  padding-left: 175px;
+  padding-right: 100px;
+}
+
 mark
 {
   background-color: #d1cfcf;
