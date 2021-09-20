@@ -8,12 +8,24 @@ body
   padding-left: 100px;
 }
 
+h1
+{
+  padding-left: 175px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+}
+
 dl
 {
   font-family: 'Quicksand', sans-serif;
-  padding-left: 175px;
+  padding-left: 215px;
   padding-right: 100px;
 } /* styles the description list */
+
+mark
+{
+  background-color: #d1cfcf;
+}
 
 .sidebar 
 {  
@@ -47,3 +59,9 @@ dl
   margin-right: auto;
   width: 50%;
 } /* center align property */
+
+.resize 
+{
+  width: 200px;
+  height: auto;
+}
