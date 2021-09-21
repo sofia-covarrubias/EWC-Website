@@ -1,6 +1,6 @@
 html 
 {
-  background-color: #e3e3e3;
+  background-color: #ede1f0;
 } /*Deals with background color*/
 
 body
@@ -59,7 +59,7 @@ form
   box-shadow: 10px 5px 5px grey;
   padding-top: 15px;
   padding-bottom: 15px;
-  background: #d1cfcf;
+  background: #cfb4d6;
   box-sizing: border-box;
   border-color: black;
 }
@@ -79,7 +79,7 @@ article
 
 mark
 {
-  background-color: #d1cfcf;
+  background-color: #cfb4d6;
 }
 
 .sidebar 
@@ -97,7 +97,7 @@ mark
   padding-top: 40px;
   padding-left: 40px;
   padding-right: 40px;
-  background-color: #d1cfcf;
+  background-color: #cfb4d6;
 } /* used for the sidebars format and placement */
 
 .sidebar div 
